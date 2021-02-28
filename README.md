@@ -1,7 +1,6 @@
 # ParallaxScroll
 
-Just another lesson learned, part of my training, not thoughtless "copy and paste" !
-
+Just another lesson learned, not my own project from scratch - just part of my training
 
 ![](GIFParallaxScroll.gif)
 
